@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "titulo": "Tomar banho"
+    },
+    {
+      "id": "2",
+      "titulo": "Escovar os dentes"
+    },
+    {
+      "id": "3",
+      "titulo": "trocar de roupa"
+    },
+    {
+      "id": "4",
+      "titulo": "tomar café"
+    },
+    {
+      "id": "5",
+      "titulo": "escovar os dentes"
+    },
+    {
+      "titulo": "pegar o fretado",
+      "id": "3dtV_7ObydQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
